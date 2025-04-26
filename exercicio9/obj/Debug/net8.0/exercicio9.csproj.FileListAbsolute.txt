@@ -1,0 +1,15 @@
+C:\Users\Usuário\OneDrive\Documentos\Thyago\3_semestre\topicos_especiais_de_sistemas\csharp_exercicios\exercicio9\bin\Debug\net8.0\exercicio9.exe
+C:\Users\Usuário\OneDrive\Documentos\Thyago\3_semestre\topicos_especiais_de_sistemas\csharp_exercicios\exercicio9\bin\Debug\net8.0\exercicio9.deps.json
+C:\Users\Usuário\OneDrive\Documentos\Thyago\3_semestre\topicos_especiais_de_sistemas\csharp_exercicios\exercicio9\bin\Debug\net8.0\exercicio9.runtimeconfig.json
+C:\Users\Usuário\OneDrive\Documentos\Thyago\3_semestre\topicos_especiais_de_sistemas\csharp_exercicios\exercicio9\bin\Debug\net8.0\exercicio9.dll
+C:\Users\Usuário\OneDrive\Documentos\Thyago\3_semestre\topicos_especiais_de_sistemas\csharp_exercicios\exercicio9\bin\Debug\net8.0\exercicio9.pdb
+C:\Users\Usuário\OneDrive\Documentos\Thyago\3_semestre\topicos_especiais_de_sistemas\csharp_exercicios\exercicio9\obj\Debug\net8.0\exercicio9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\OneDrive\Documentos\Thyago\3_semestre\topicos_especiais_de_sistemas\csharp_exercicios\exercicio9\obj\Debug\net8.0\exercicio9.AssemblyInfoInputs.cache
+C:\Users\Usuário\OneDrive\Documentos\Thyago\3_semestre\topicos_especiais_de_sistemas\csharp_exercicios\exercicio9\obj\Debug\net8.0\exercicio9.AssemblyInfo.cs
+C:\Users\Usuário\OneDrive\Documentos\Thyago\3_semestre\topicos_especiais_de_sistemas\csharp_exercicios\exercicio9\obj\Debug\net8.0\exercicio9.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\OneDrive\Documentos\Thyago\3_semestre\topicos_especiais_de_sistemas\csharp_exercicios\exercicio9\obj\Debug\net8.0\exercicio9.sourcelink.json
+C:\Users\Usuário\OneDrive\Documentos\Thyago\3_semestre\topicos_especiais_de_sistemas\csharp_exercicios\exercicio9\obj\Debug\net8.0\exercicio9.dll
+C:\Users\Usuário\OneDrive\Documentos\Thyago\3_semestre\topicos_especiais_de_sistemas\csharp_exercicios\exercicio9\obj\Debug\net8.0\refint\exercicio9.dll
+C:\Users\Usuário\OneDrive\Documentos\Thyago\3_semestre\topicos_especiais_de_sistemas\csharp_exercicios\exercicio9\obj\Debug\net8.0\exercicio9.pdb
+C:\Users\Usuário\OneDrive\Documentos\Thyago\3_semestre\topicos_especiais_de_sistemas\csharp_exercicios\exercicio9\obj\Debug\net8.0\exercicio9.genruntimeconfig.cache
+C:\Users\Usuário\OneDrive\Documentos\Thyago\3_semestre\topicos_especiais_de_sistemas\csharp_exercicios\exercicio9\obj\Debug\net8.0\ref\exercicio9.dll

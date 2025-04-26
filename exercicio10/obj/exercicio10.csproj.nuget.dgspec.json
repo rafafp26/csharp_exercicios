@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\RAFAELFERNANDES\\exercicios-csharp\\exercicio10\\exercicio10.csproj": {}
+    "C:\\Users\\Usuário\\OneDrive\\Documentos\\Thyago\\3_semestre\\topicos_especiais_de_sistemas\\csharp_exercicios\\exercicio10\\exercicio10.csproj": {}
   },
   "projects": {
-    "C:\\Users\\RAFAELFERNANDES\\exercicios-csharp\\exercicio10\\exercicio10.csproj": {
+    "C:\\Users\\Usuário\\OneDrive\\Documentos\\Thyago\\3_semestre\\topicos_especiais_de_sistemas\\csharp_exercicios\\exercicio10\\exercicio10.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\RAFAELFERNANDES\\exercicios-csharp\\exercicio10\\exercicio10.csproj",
+        "projectUniqueName": "C:\\Users\\Usuário\\OneDrive\\Documentos\\Thyago\\3_semestre\\topicos_especiais_de_sistemas\\csharp_exercicios\\exercicio10\\exercicio10.csproj",
         "projectName": "exercicio10",
-        "projectPath": "C:\\Users\\RAFAELFERNANDES\\exercicios-csharp\\exercicio10\\exercicio10.csproj",
-        "packagesPath": "C:\\Users\\RAFAELFERNANDES\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\RAFAELFERNANDES\\exercicios-csharp\\exercicio10\\obj\\",
+        "projectPath": "C:\\Users\\Usuário\\OneDrive\\Documentos\\Thyago\\3_semestre\\topicos_especiais_de_sistemas\\csharp_exercicios\\exercicio10\\exercicio10.csproj",
+        "packagesPath": "C:\\Users\\Usuário\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Usuário\\OneDrive\\Documentos\\Thyago\\3_semestre\\topicos_especiais_de_sistemas\\csharp_exercicios\\exercicio10\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\RAFAELFERNANDES\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Usuário\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.406/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.408/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

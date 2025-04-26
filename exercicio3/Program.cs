@@ -1,19 +1,24 @@
-﻿using System;
+﻿// Peça ao usuário um número inteiro positivo e calcule o fatorial desse número usando while.
 
-class Program
-{
-    static void Main()
-    {
+using System;
+
+class Program{
+    static void Main(){
+
         Console.Write("Digite um número inteiro positivo: ");
         int numero = int.Parse(Console.ReadLine());
+
+        if (numero < 0){
+
+            Console.WriteLine("Número inválido.");
+
+            return;}
+
         int resultado = 1, i = 1;
 
-        while (i <= numero)
-        {
-            resultado *= i;
-            i++;
-        }
+        while (i <= numero){
 
-        Console.WriteLine($"Fatorial de {numero} é {resultado}");
-    }
-}
+            resultado *= i;
+            i++;}
+
+        Console.WriteLine($"Fatorial de {numero} é {resultado}.");}}

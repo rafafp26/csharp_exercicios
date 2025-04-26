@@ -1,21 +1,20 @@
-﻿using System;
+﻿// Peça ao usuário 10 números e armazene em um array. Depois, calcule a soma apenas dos números pares.
 
-class Program
-{
-    static void Main()
-    {
+using System;
+
+class Program{
+    static void Main(){
+
         int[] numeros = new int[10];
         int soma = 0;
 
-        for (int i = 0; i < 10; i++)
-        {
+        for (int i = 0; i < 10; i++){
+
             Console.Write($"Número {i + 1}: ");
             numeros[i] = int.Parse(Console.ReadLine());
 
-            if (numeros[i] % 2 == 0)
-                soma += numeros[i];
-        }
+            if(numeros[i] % 2 == 0)
 
-        Console.WriteLine($"Soma dos pares: {soma}");
-    }
-}
+                soma += numeros[i];}
+
+        Console.WriteLine($"Soma dos pares: {soma}");}}
