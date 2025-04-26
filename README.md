@@ -2,7 +2,7 @@
 
 Participantes:
 - Thyago Almeida Paulo
-- Caio Santos
+- Caio Soares
 - Rafael Fernandes
 
 <br>
